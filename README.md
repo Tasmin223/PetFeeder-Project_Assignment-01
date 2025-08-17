@@ -1,6 +1,6 @@
-# 🐾 Automated Pet Feeder System
+# Automated Pet Feeder System
 
-## 📌 Project Summary
+## Project Summary
 
 This project presents a simulated logic design for an **Automated Pet Feeder System** developed as part of the *Introduction to Information Technology (4478/8936)* unit at the **University of Canberra**. The system is intended to support a local animal shelter by automating pet feeding tasks using low-cost components and smart scheduling.
 
@@ -13,7 +13,7 @@ The solution follows a structured problem-solving methodology and is designed to
 
 ---
 
-## 🧠 Problem-Solving Process
+##  Problem-Solving Process
 
 ### Step 1: Define the Problem
 - Identified system requirements and constraints.
@@ -38,7 +38,7 @@ The solution follows a structured problem-solving methodology and is designed to
 
 ---
 
-## 🤖 AI Agent Integration
+## AI Agent Integration
 
 Microsoft Copilot was used to:
 - Refine logic and word-based code.
@@ -48,5 +48,5 @@ Microsoft Copilot was used to:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
